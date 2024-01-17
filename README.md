@@ -7,7 +7,11 @@
 
 - 🌱 I’m currently learning **Machine learning and Deep Learning**
 
+- 👀 Artificial Intelligence and Machine Learning Enthusiast
+
 - 💬 Ask me about **CNN,NLP**
+
+- 🔭 Learning - Exploring - Improving 😶
 
 - 📫 How to reach me **mukul2002.work@gmail.com**
 
@@ -23,4 +27,18 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chauhan-mukul&show_icons=true&locale=en" alt="chauhan-mukul" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chauhan-mukul&" alt="chauhan-mukul" /></p>
+<!-- Repositories and Projects -->
+<p align="center">📖Repositories and Projects📖</p>
+<p align="center">
+<a href="https://github.com/Bhudil/Instruments_Classifier ">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Bhudil&repo=Instruments_Classifier&theme=radical" alt="Instruments Image Classification System" />
+</a>
+<a href="https://github.com/Bhudil/Sentiment_Bot">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Bhudil&repo=Sentiment_Bot&theme=radical" alt="Sentiment Analysis Chatbot" />
+</a>
+<a href="https://github.com/Bhudil/Ham-Spam">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Bhudil&repo=Ham-Spam&theme=radical" alt="Email Ham-Spam Detection System" />
+</a>
+<a href="https://github.com/Bhudil/TxtSumm">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Bhudil&repo=TxtSumm&theme=radical" alt="Text Summarization Tool" />
   
