@@ -30,15 +30,15 @@
 <!-- Repositories and Projects -->
 <p align="center">📖Repositories and Projects📖</p>
 <p align="center">
-<a href="https://github.com/Bhudil/Instruments_Classifier ">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Bhudil&repo=Instruments_Classifier&theme=radical" alt="Instruments Image Classification System" />
+<a href="https://github.com/chauhan-mukul/Automatic_image_captioning">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=chauhan-mukul&repo=Automatic_image_captioning&theme=radical" alt="Automatic Image Captioning" />
 </a>
-<a href="https://github.com/Bhudil/Sentiment_Bot">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Bhudil&repo=Sentiment_Bot&theme=radical" alt="Sentiment Analysis Chatbot" />
+<a href="https://github.com/chauhan-mukul/Comment-toxicity-determiner">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=chauhan-mukul&repo=Comment-toxicity-determiner&theme=radical"alt="Comment Toxicity determiner" />
 </a>
-<a href="https://github.com/Bhudil/Ham-Spam">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Bhudil&repo=Ham-Spam&theme=radical" alt="Email Ham-Spam Detection System" />
+<a href="https://github.com/chauhan-mukul/Alphabet-and-Number-recogniton">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=chauhan-mukul&repo=Alphabet-and-Number-recogniton&theme=radical" alt="Email Ham-Spam Detection System" />
 </a>
-<a href="https://github.com/Bhudil/TxtSumm">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Bhudil&repo=TxtSumm&theme=radical" alt="Text Summarization Tool" />
+<a href="https://github.com/chauhan-mukul/Face-Detection-in-Real-Time">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=chauhan-mukul&repo=Face-Detection-in-Real-Time&theme=radical" alt="Face-Detection-in-Real-Time" />
   
